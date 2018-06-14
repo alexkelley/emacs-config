@@ -33,9 +33,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; BASIC CUSTOMIZATION ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;
-(setq user-full-name "Alex Kelley")
-(setq user-mail-address "alexkelley@yahoo.com")
-
 (setq inhibit-startup-message t)
 (load-theme 'tango-dark t)
 
